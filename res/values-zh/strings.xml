@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLE考勤器</string>
+    <string name="Scan">扫描</string>
+    <string name="edit_hint">请输入4位数字编号，如：0001</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="toast_enter_uuid">进入UUID</string>
+    <string name="connected">已连接</string>
+    <string name="input_student_number">输入学号</string>
+    <string name="marked">已签到</string>
+
+</resources>

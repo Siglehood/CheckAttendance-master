@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLE Check Attendance</string>
+    <string name="Scan">Scan</string>
+    <string name="edit_hint">Please input the four digits, such as: 0001.</string>
+    <string name="confirm">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="toast_enter_uuid">enter UUID.</string>
+    <string name="connected">Connected.</string>
+    <string name="input_student_number">Input Student Number</string>
+    <string name="marked">Marked.</string>
+
+</resources>
